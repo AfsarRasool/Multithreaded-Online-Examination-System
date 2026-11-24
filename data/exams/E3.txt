@@ -1,0 +1,5 @@
+ID|E3
+SUBJECT|OS
+ADMIN|Afsar
+TIME|80
+Q|what is a process?|Program|program UE|both A&B|none|B|10
